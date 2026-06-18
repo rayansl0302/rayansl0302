@@ -25,10 +25,10 @@ Front-End Engineer especializado em Angular, React, TypeScript e Next.js.
 ## 📂 Projetos
 
 - Sistema de Estoque
-- Traz Front
+- Traz Pronto
 - Landing Pages Profissionais
-- AlugaPro (em desenvolvimento)
-
+- AlugaPro
+- Outros
 ## 📫 Contato
 
 - Email: rayansl0302@gmail.com
